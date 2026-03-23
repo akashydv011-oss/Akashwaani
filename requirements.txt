@@ -1,0 +1,5 @@
+FastAPI
+Uvicorn
+python-dotenv
+openai
+sqlalchemy
